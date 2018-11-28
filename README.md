@@ -1,7 +1,7 @@
 # nuxt2-gae
 
 > Nuxt.js v2 on GAE
-
+> from https://inside.dmm.com/entry/2018/11/06/nuxt2-pwa-gae-se
 ## Build Setup
 
 ``` bash
